@@ -1,0 +1,7 @@
+Como se puede observar hay 2 archivos .rar los cuales les explico lo siguiente el primero esta realizado en formato consola por lo que solo se puede ejecutar con terminal
+
+BibliotecaJDBC.rar
+
+El siguiente archivo es una mejora digamos que es la versión 2 esta versión es grafica por lo que es mas amigable en el entorno
+
+LectMoCity_Biblioteca_JDBC_SWING.rar
