@@ -1,7 +1,34 @@
-Como se puede observar hay 2 archivos .rar los cuales les explico lo siguiente el primero esta realizado en formato consola por lo que solo se puede ejecutar con terminal
+Repositorio del Proyecto – Programación Orientada a Objetos (Semana 6)
 
-BibliotecaJDBC.rar
+Estimada docente:
 
-El siguiente archivo es una mejora digamos que es la versión 2 esta versión es grafica por lo que es mas amigable en el entorno
+Junto con saludar, comparto el enlace a mi repositorio en GitHub, donde se encuentran los archivos correspondientes al desarrollo de la actividad de la semana:
 
-LectMoCity_Biblioteca_JDBC_SWING.rar
+Repositorio:
+https://github.com/carlosdp521-hub/PROGRAMACI-N-ORIENTADA-A-OBJETOS-SEMANA-6
+
+Dentro del repositorio se incluyen dos archivos comprimidos en formato .rar, los cuales contienen diferentes versiones del sistema desarrollado utilizando Java y JDBC:
+
+1. BibliotecaJDBC.rar
+   - Corresponde a la versión inicial del sistema.
+   - Implementada en modo consola.
+   - Permite ejecutar las operaciones mediante terminal o línea de comandos.
+   - Incluye la conexión a base de datos mediante JDBC y funcionalidades básicas (CRUD).
+
+2. LectMoCity_Biblioteca_JDBC_SWING.rar
+   - Corresponde a una versión mejorada del sistema (versión 2).
+   - Implementada con interfaz gráfica utilizando la librería Swing de Java.
+   - Presenta una interfaz más amigable para el usuario.
+   - Mantiene la conexión a base de datos mediante JDBC e incorpora mejoras en la interacción y usabilidad.
+
+Consideraciones importantes:
+- Ambos proyectos requieren tener configurado el entorno de desarrollo Java (JDK).
+- Es necesario contar con el conector JDBC correspondiente (por ejemplo: mysql-connector-j-8.x.x.jar).
+- Se recomienda ejecutar los proyectos desde un IDE como Eclipse o Visual Studio Code para facilitar su compilación y ejecución.
+
+Finalmente, ambas versiones permiten evidenciar el uso de la programación orientada a objetos junto con el acceso a bases de datos mediante JDBC, cumpliendo con los requerimientos solicitados en la actividad.
+
+Quedo atento a cualquier observación.
+
+Saludos cordiales.
+
